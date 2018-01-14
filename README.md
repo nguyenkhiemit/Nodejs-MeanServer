@@ -1,6 +1,6 @@
 # Nodejs-MeanServer
 
-a example project about CRUD on server
+a example project about CRUD on Back-end
 
 use mLab server : https://mlab.com/home
 
