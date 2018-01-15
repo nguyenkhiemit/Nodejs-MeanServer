@@ -12,5 +12,6 @@ use libs: <br>
  "nodemon": "^1.14.8", <br>
  
  to run : <br>
+ npm install : download and install libs <br>
  node app : run server <br>
  nodemon app.js : restart server
